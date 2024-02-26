@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maria Levkovets
-- 👀 I’m a master student of Lund university 
-- 🌱 I’m currently learning protein NMR spectroscopy
-- 💞️ I’m looking to collaborate on Alphafold2
+- 👀 I’m a PhD student of Linköpings university 
+- 🌱 I’m currently learning bioinformatics
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me rm3aql@gmail.com
 
 <!---
